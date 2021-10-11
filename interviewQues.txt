@@ -1,0 +1,102 @@
+---------------------Interview Questions---------------------
+
+				----HTML and CSS Questions------
+->Pseudo Elements and classes
+->what are the use of Header,Footer,Article,Section
+->How to access the pseudo elements from DOM
+->use of 'Content'keyword in Pseudo(after,before) elements
+->HTML Selectors like nth-child,>,+ etc
+->difference between em,rem,vh,vw
+->semantic tags in html
+->flexbox in CSS
+->Inline and block level HTML tags
+->Calc use in CSS
+
+
+
+				----JavaScript Questions----
+->classes in js
+->constructor in js
+->overloading and overridding
+->function declaration and expression
+->(function(){
+	try{
+		throw new error()	
+	}
+	catch(x){
+		var x=1,y=2;
+		console.log(x)
+	}
+	console.log(x);
+	console.log(y);
+})()
+->Closures
+->Promises and callback
+->Async Await
+->console.log(0.1 + 0.2);
+  console.log(0.1 + 0.2 == 0.3); 
+->console.log(1<2<3)
+  console.log(3>2>1)
+-> Hoisting
+->Session Storage and vs local storage
+->How JS internally work
+->setInterval vs setTimeout vs setImmedidate
+->setTimeOut vs Promise
+->Call by value and call by Reference
+->Memory Stack,Heap,memory management
+->map,reduce,filter
+->map vs forEach
+->remove duplicate items from array
+->var x = 10;
+  y = --x + 1;
+->var x = 10;
+  y = x-- + 1;
+->function a() {
+ var b;
+ b = function () {
+  return 3;
+ };
+  return b();
+ b = function () {
+  return 8;
+ };
+}
+
+
+
+
+				-----NodeJS Questions---
+
+->node js advantages
+->node js limitation
+->event loop in node js
+->event driven in node js
+->RestFul APIs
+
+				------React Question----
+
+->State and props
+->send data from child to Parent component
+->getDerivedStatefromProps method
+->Error Boundary
+->lifecycle methods
+->useContext,useReducer,useCallback,useMemo,useRef Hooks
+->which will load first between constructor,render and componentDidMount
+->Declarative and Imperative 
+->CSS Modules SASS, SCSS
+->Styled Components in react
+->Axios use to fetch api data
+->React.memo
+->How to unmount a component on button click -> use unmountComponentAtNode method in class component
+->Higher order components
+
+
+				------MongoDB Question----
+
+->Indexing in Mongodb
+->Aggregation
+->find the element with only some of the selected fields
+->Projection
+
+
+
